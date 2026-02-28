@@ -3,6 +3,7 @@ This week was all about moving beyond Python lists into arrays, performing fast 
 
 ![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Intro%20Wk%205.png?raw=true)
 
+
 # Key Skills Practiced
 - Creating arrays from CSV columns using .to_numpy()
 
