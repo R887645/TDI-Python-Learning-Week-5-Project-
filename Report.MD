@@ -56,7 +56,9 @@ This week was all about moving beyond Python lists into arrays, performing fast 
 This project showed me how powerful NumPy is for numerical analysis. Arrays made calculations faster and cleaner compared to pure Python lists. 
 I especially appreciated how broadcasting eliminated the need for manual loops when applying markups or profit margins.
 
-One challenge I faced was fully understanding array broadcasting, how NumPy automatically aligns shapes when performing operations. 
+**[View My week 4 full project here](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Week5_PersonalDataOrganizer%20(1).ipynb)**
+
+One challenge I faced was fully understanding array broadcasting and how NumPy automatically aligns shapes when performing operations. 
 I’ll continue exploring this concept in more depth going forward, since it’s key to writing efficient numerical code.
 
 Overall, Week 5 helped me move from data cleaning into true analysis, uncovering supplier performance patterns, cost distributions, and statistical outliers.
