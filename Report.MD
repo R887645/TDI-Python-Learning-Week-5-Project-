@@ -1,6 +1,8 @@
 In this Week 5 project, I focused on learning and applying NumPy to my cleaned supply chain dataset. 
 This week was all about moving beyond Python lists into arrays, performing fast numerical operations, and extracting meaningful insights from costs, quantities, and lead times.
 
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Intro%20Wk%205.png?raw=true)
+
 # Key Skills Practiced
 - Creating arrays from CSV columns using .to_numpy()
 
@@ -16,6 +18,7 @@ This week was all about moving beyond Python lists into arrays, performing fast 
 
 - Comparing supplier performance with average costs and lead times
 
+
 # What I Implemented
 
 - Converted total_cost, quantity, and lead_time_days into NumPy arrays and verified them
@@ -30,7 +33,12 @@ This week was all about moving beyond Python lists into arrays, performing fast 
 
 - Detected unusual orders by flagging outliers more than 2 standard deviations from the mean
 
-- Tackled extra challenges: profit score broadcasting, correlation analysis, and cost distribution bins
+- **Tackled extra challenges:** profit score broadcasting, correlation analysis, and cost distribution bins
+
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Task%201.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Task%202A.png?raw=true)
 
 # Extra Challenges
 
@@ -39,6 +47,10 @@ This week was all about moving beyond Python lists into arrays, performing fast 
 - **Correlation Analysis:** Found strong positive correlation between quantity and total cost, and a negative correlation between lead time and on‑time delivery.
 
 - **Distribution Analysis:** Divided costs into bins (<$1000, $1000–$5000, $5000+) to reveal that most orders cluster in the mid‑range, with fewer high‑value transactions.
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Challenge%201A.png?raw=true)
+
+![My image Description](https://github.com/R887645/TDI-Python-Learning-Week-5-Project-/blob/main/Challenge%201B.png?raw=true)
 
 # Reflection
 This project showed me how powerful NumPy is for numerical analysis. Arrays made calculations faster and cleaner compared to pure Python lists. 
